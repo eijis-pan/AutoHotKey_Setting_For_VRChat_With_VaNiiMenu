@@ -33,6 +33,10 @@ FKeyForVrc.ahk の定義内容
 　（もしくは、VRChat起動前に実行する。それかVaNiiMenuのlauncherに設定しておくのもアリ。）
 - VaNiiMenu の config ディレクトリにある FunctionKeyDescription.txt を更新する。（お好みで）
 
+## 既知の不具合
+
+[wiki / 開発メモ](https://github.com/eijis-pan/AutoHotKey_Setting_For_VRChat_With_VaNiiMenu/wiki/%E9%96%8B%E7%99%BA%E3%83%A1%E3%83%A2)を見てね。
+
 ## Author
 
 github:[eijis](https://github.com/eijis-pan)  または twitter: @ eijis_pan
