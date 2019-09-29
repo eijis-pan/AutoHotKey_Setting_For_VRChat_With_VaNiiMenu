@@ -18,8 +18,8 @@ FKeyForVrc.ahk の定義内容
 
 動作確認環境
 - Windows 10
-- VRChat w_2019.2.1p5 build 751
-- VaNiiMenu v0.10h beta（https://sabowl.sakura.ne.jp/gpsnmeajp/unity/vaniimenu/）
+- VRChat w_2019.3.2 build 860
+- VaNiiMenu v0.12 Beta（https://sabowl.sakura.ne.jp/gpsnmeajp/unity/vaniimenu/）
 - AutoHotkey 1.1.30.03（https://www.autohotkey.com/）
 
 ## Requirement
