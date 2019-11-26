@@ -13,12 +13,16 @@ VRChat.exe が存在している間だけ動作するようにしたので、未
 AutoHotkey でファンクションキーの動作を定義して、VaNiiMenu からファンクションキーの操作をします。<br>
 
 FKeyForVrc.ahk の定義内容
-- F1 WinDVRの録画開始･停止 (Alt+Win+r) 録画状態は、VaNiiMenuのDesktopViewerで確認できます。
-- F2 ペースト (Cntl+v)
+- F1 WinDVRの録画開始･停止 (Alt+Win+r)  録画状態は、VaNiiMenuのDesktopViewerで確認できます。
+- F2 ペースト  VRChat.exe をアクティブ → Cntl+v (ペースト) します。
+- F3 VRChat.exeを前面にするだけ
+- F4 コピー(Cntl+c)してペースト(Cntl+v)  IwaSyncにURLを入力する等の操作を簡略化します。あらかじめ文字列を選択状態にしておく必要があります。（クリップボードを使用します。）
+- F5 〜 F8 定型文字列をペースト  Social欄のコメントを更新する時に利用します。
+- F9 クリア用（Cntl+A,DEL）  Social欄のコメントを空にする時に利用します。
 
 動作確認環境
 - Windows 10
-- VRChat w_2019.3.2 build 860
+- VRChat w_2019.3.2p2 build 864
 - VaNiiMenu v0.12 Beta（https://sabowl.sakura.ne.jp/gpsnmeajp/unity/vaniimenu/）
 - AutoHotkey 1.1.30.03（https://www.autohotkey.com/）
 

@@ -1,2 +1,5 @@
-F1  録画開始・停止
-F2  ペースト
+F1  録画開始・停止          F2  ペースト
+F3  VRChat.exeを前面にする F4  コピーしてペースト                 
+F5  Sight seeing（観光）   F6  Under construction（作業中）
+F7  Silent Club            F8  Radio gymnastic exercises（ラジオ体操）
+F9  クリア用（Cntl+A,DEL）
